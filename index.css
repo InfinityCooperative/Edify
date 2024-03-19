@@ -2,17 +2,35 @@
     text-align: center;
 }
 body{
+    background-color: rgb(218, 241, 236);
+}
+.cabecalho{
     background-color: rgb(167, 168, 119);
+    border-width: 0.7px;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    height: auto;
 }
 .logo{
-    height: 300px;
+    margin-top: 0px;
+    position: relative;
+    height: 200px;
+}
+.rodape{
+    background-color: rgb(167, 168, 119);
+    border-radius: 5px;
+    border-width: 0.7px;
+    border-style: solid;
+    border-color: #000;
+    height: auto;
 }
 .imagem{
     position: relative;
+    height: 40px;
     margin: 20px;
-    height: 25px;
 }
-.rodape{
+.nome{
     color: white;
     font-family: monospace;
 }
@@ -21,5 +39,5 @@ body{
 }
 .referencia{
     position: relative;
-    height: 50px;
+    height: 25px;
 }
