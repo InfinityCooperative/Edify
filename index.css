@@ -30,16 +30,8 @@ body{
     height: 40px;
     margin: 20px;
 }
-.nome{
-    font-size: smaller;
-    color: black;
-}
 .infinity{
     height: 55px;
-}
-.referencia{
-    position: relative;
-    height: 25px;
 }
 .cooperacao1{
     position: relative;
@@ -55,4 +47,12 @@ body{
     position: relative;
     margin: 10px;
     color: black;
+}
+.slogan{
+    position: relative;
+    height: 65px;
+}
+.referencia{
+    position: relative;
+    height: 25px;
 }
