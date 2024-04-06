@@ -3,7 +3,7 @@ body{
     text-align: center;
 }
 .cabecalho{
-    background-color: rgb(167, 168, 119);
+    background-color: grey;
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
@@ -26,7 +26,7 @@ body{
     height: 200px;
 }
 .rodape{
-    background-color: rgb(167, 168, 119);
+    background-color: grey;
     border-radius: 5px;
     border-width: 0.7px;
     border-style: solid;
